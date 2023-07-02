@@ -327,7 +327,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.fingerprint \
     sec.android.hardware.nfc@1.2-service \
-    vendor.samsung.hardware.authfw@1.0-manifest \
     vendor.samsung.hardware.biometrics.fingerprint@3.0-service \
     vendor.samsung.hardware.hqm@1.0-manifest \
     vendor.samsung.hardware.security.hdcp.wifidisplay-default \
