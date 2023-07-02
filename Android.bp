@@ -15,15 +15,6 @@ prebuilt_etc {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_vendor.samsung.hardware.security.widevine.keyprov@1.0-service",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/manifest_vendor.samsung.hardware.security.widevine.keyprov@1.0-service.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "power-samsung",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/power-samsung.xml",

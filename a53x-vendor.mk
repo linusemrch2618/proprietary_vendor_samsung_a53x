@@ -326,7 +326,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     init.fingerprint \
-    manifest_vendor.samsung.hardware.security.widevine.keyprov@1.0-service \
     power-samsung \
     sec.android.hardware.nfc@1.2-service \
     vendor.samsung.hardware.authfw@1.0-manifest \
