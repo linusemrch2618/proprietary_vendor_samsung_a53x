@@ -6,6 +6,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a53x
 
 PRODUCT_COPY_FILES += \
+    vendor/samsung/a53x/proprietary/recovery/ramdisk/vendor/firmware/gt9895_a53x.bin:$(TARGET_COPY_OUT_RECOVERY)/ramdisk/vendor/firmware/gt9895_a53x.bin \
     vendor/samsung/a53x/proprietary/vendor/apex/com.samsung.android.biometrics.face.signed.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.samsung.android.biometrics.face.signed.apex \
     vendor/samsung/a53x/proprietary/vendor/apex/com.samsung.android.biometrics.fingerprint.signed.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.samsung.android.biometrics.fingerprint.signed.apex \
     vendor/samsung/a53x/proprietary/vendor/app/mcRegistry/00060308060501020000000000000000.tabin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/00060308060501020000000000000000.tabin \
