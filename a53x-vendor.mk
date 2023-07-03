@@ -328,15 +328,4 @@ PRODUCT_PACKAGES += \
     init.fingerprint \
     sec.android.hardware.nfc@1.2-service \
     vendor.samsung.hardware.biometrics.fingerprint@3.0-service \
-    vendor.samsung.hardware.hqm@1.0-manifest \
-    vendor.samsung.hardware.security.hdcp.wifidisplay-default \
-    vendor.samsung.hardware.snap-default \
-    vendor.samsung.hardware.thermal@1.0-manifest \
-    vendor.samsung.hardware.tlc.hdm@1.1-manifest \
-    vendor.samsung.hardware.tlc.iccc@1.0-manifest \
-    vendor.samsung.hardware.tlc.kg@1.1-manifest \
-    vendor.samsung.hardware.vibrator-default \
-    vendor.samsung.hardware.wifi.hostapd \
-    vendor.samsung.hardware.wifi@2.0-service \
-    vendor.samsung_slsi.hardware.eden_runtime@1.0-service \
     sec.android.hardware.nfc@1
